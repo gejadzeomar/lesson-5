@@ -1,0 +1,114 @@
+@import url(h1 { font-family: "Helvetica Neue"; font-size: 28px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Helvetica Neue"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Helvetica Neue"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Helvetica Neue"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Helvetica Neue"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+); 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none
+}
+header, footer{
+    background-color: #0020F4
+}
+
+
+/* header */
+header {
+    height: 387.56px;
+    margin-bottom: -172px
+    padding-top: 27px
+}
+header {
+    padding-top:27px
+}
+header {
+    margin-bottom: -172px
+}
+.logo {
+    width: 115px
+}
+header a img {
+    margin-top: 40px
+}
+header a img {
+    margin-left: 240px
+}
+header nav {
+    margin-left: 488px
+}
+header nav {
+    display: inline-block
+}
+header nav ul {
+    display: inline-block
+}
+header nav ul li {
+    margin-left: 40px;
+}
+nav ul li {
+    display: inline-block
+}
+nav ul {
+	list-style-type: none;	
+}
+li a {
+    color: #FFFFFF
+}
+.contact {
+    background-color: #FFFFFF
+}
+
+/* main */
+.main-photo {
+    margin-left: 362px
+}
+main h2, main div {
+    margin-left: 362px
+}
+article {
+    width: 951px
+    color: #171717
+}
+article {
+    margin-right: 484px;
+    margin-left: 485px
+}
+article p {
+    font-size: 16px
+}
+.main-photo {
+    width: 1195px
+}
+main div img {
+    margin-right: 25px;
+}
+main {
+    center-align: center
+}
+main h2 {
+    font-family: "Helvetica Neue";
+    color: #171717
+}
+
+
+/* footer */
+footer {
+    height: 1080px
+}
+footer div h4 {
+    margin-top: 275px
+    margin-left: 240px
+}
+footer p, h1, h2, h3, h4, h5, li {
+    color: #FFFFFF
+}
+footer ul li {
+    list-style-type: none
+}
+div img {
+    width: 219px
+}
+footer {
+    padding-bottom: 32px;
+}
